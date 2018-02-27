@@ -1,0 +1,1 @@
+./steamcmd.sh +login anonymous +force_install_dir server1 +app_update 403240 validate
